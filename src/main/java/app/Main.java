@@ -21,7 +21,7 @@ public class Main {
         dataSource.setPortNumber(5432);
         dataSource.setDatabaseName("skusanie_mackova");
         dataSource.setUser("mackova");
-        dataSource.setPassword("mackova1");
+        dataSource.setPassword("*******");
 
         // System.out.println("helo");
 
